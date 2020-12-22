@@ -24,6 +24,10 @@ This project is a work out application designed with Android Studio.
 
 ## Images
 
+## * Homepage of the App.
+
+![Alt text](https://cdn.discordapp.com/attachments/451482699337695235/791020111724412948/Screenshot_1.png)
+
 ## * Alert Notifications after a workout is completed with a sprite.
 
 ![Alt text](https://cdn.discordapp.com/attachments/779129388456869909/790696946347016233/Push_Notifications.png)
