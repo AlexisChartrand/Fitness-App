@@ -15,7 +15,7 @@ This project is a work out application designed with Android Studio.
 -------------------------------------------------------------------------------------------------------------
 	
 ## Features
-* Alert Notifications after a workout is complicated with a sprite.
+* Alert Notifications after a workout is completed with a sprite.
 * Well done UI very easy to find the different exercises.
 * 3 Tier of Exercises (Easy, Intermediate, Expert).
 * Timer for the Exercises (Easy : 20 min, Intermediate : 40 min, Expert : 60 min).
