@@ -13,6 +13,11 @@
 This project is a work out application designed with Android Studio.
 
 -------------------------------------------------------------------------------------------------------------
+
+## APK Download
+
+https://drive.google.com/file/d/1VAvlGuJkzbPnoZY7f8HeYncMViaI0Pof/view?usp=sharing
+-------------------------------------------------------------------------------------------------------------
 	
 ## Features
 * Alert Notifications after a workout is completed with a sprite.
