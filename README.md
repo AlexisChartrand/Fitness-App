@@ -5,6 +5,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Features](#features)
+* [APK Download](#apk-download)
 * [Setup](#setup)
 
 -------------------------------------------------------------------------------------------------------------
