@@ -56,14 +56,14 @@ https://drive.google.com/file/d/1VAvlGuJkzbPnoZY7f8HeYncMViaI0Pof/view?usp=shari
 
 
 ## Intermediate
-![Alt text](https://cdn.discordapp.com/attachments/552305404923740162/762043823059894282/Screenshot_4.png)
+![Alt text](https://cdn.discordapp.com/attachments/708815018514317333/847169104183689266/Screenshot_5.png)
 
 -------------------------------------------------------------------------------------------------------------
 
 
 ## Expert
 
-![Alt text](https://cdn.discordapp.com/attachments/552305404923740162/762043819109646378/Screenshot_3.png)
+![Alt text](https://cdn.discordapp.com/attachments/708815018514317333/847169108390314004/Screenshot_6.png)
 
 
 -------------------------------------------------------------------------------------------------------------
