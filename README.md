@@ -37,7 +37,8 @@ https://drive.google.com/file/d/1VAvlGuJkzbPnoZY7f8HeYncMViaI0Pof/view?usp=shari
 
 ## * Alert Notifications after a workout is completed with a sprite.
 
-![Alt text](https://cdn.discordapp.com/attachments/779129388456869909/790696946347016233/Push_Notifications.png)
+![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737393132393338383435363836393930392f3739303639363934363334373031363233332f507573685f4e6f74696669636174696f6e732e706e67](https://github.com/AlexisChartrand/Fitness-App/assets/44973499/ce87aa5d-4c5f-465f-9c1c-491b71f30fcc)
+
 
 -------------------------------------------------------------------------------------------------------------
 
