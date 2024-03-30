@@ -32,7 +32,8 @@ https://drive.google.com/file/d/1VAvlGuJkzbPnoZY7f8HeYncMViaI0Pof/view?usp=shari
 
 ## * Homepage of the App.
 
-![Alt text](https://cdn.discordapp.com/attachments/451482699337695235/791020111724412948/Screenshot_1.png)
+![Alt text](![image](https://github.com/AlexisChartrand/Fitness-App/assets/44973499/8616c619-8249-4d40-a320-f95ee605faf7)
+)
 
 ## * Alert Notifications after a workout is completed with a sprite.
 
