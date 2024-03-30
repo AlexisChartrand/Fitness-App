@@ -51,14 +51,16 @@ https://drive.google.com/file/d/1VAvlGuJkzbPnoZY7f8HeYncMViaI0Pof/view?usp=shari
 
 
 ## Intermediate
-![Alt text](https://cdn.discordapp.com/attachments/708815018514317333/847169104183689266/Screenshot_5.png)
+
+![Screenshot_1](https://github.com/AlexisChartrand/Fitness-App/assets/44973499/7732c8a3-42c1-4c1d-88be-5c28de5f8f66)
 
 -------------------------------------------------------------------------------------------------------------
 
 
 ## Expert
 
-![Alt text](https://cdn.discordapp.com/attachments/708815018514317333/847169108390314004/Screenshot_6.png)
+
+![Screenshot_2](https://github.com/AlexisChartrand/Fitness-App/assets/44973499/6fa36c83-6853-4cdd-90c8-4845efa9626e)
 
 
 -------------------------------------------------------------------------------------------------------------
